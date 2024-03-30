@@ -1,0 +1,12 @@
+{
+  "source": "/Users/ayushgupta/Documents/iOS-Projects/CICDPipeline/CICDPipeline/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Hello, world!"
+      }
+    ]
+  },
+  "version": 1
+}

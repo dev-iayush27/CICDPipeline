@@ -1,0 +1,38 @@
+{
+  "" : {
+    "diagnostics" : "/Users/ayushgupta/Documents/iOS-Projects/CICDPipeline/Build/Build/Intermediates.noindex/CICDPipeline.build/Debug-iphonesimulator/CICDPipeline.build/Objects-normal/arm64/CICDPipeline-master.dia",
+    "emit-module-dependencies" : "/Users/ayushgupta/Documents/iOS-Projects/CICDPipeline/Build/Build/Intermediates.noindex/CICDPipeline.build/Debug-iphonesimulator/CICDPipeline.build/Objects-normal/arm64/CICDPipeline-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/ayushgupta/Documents/iOS-Projects/CICDPipeline/Build/Build/Intermediates.noindex/CICDPipeline.build/Debug-iphonesimulator/CICDPipeline.build/Objects-normal/arm64/CICDPipeline-master-emit-module.dia",
+    "swift-dependencies" : "/Users/ayushgupta/Documents/iOS-Projects/CICDPipeline/Build/Build/Intermediates.noindex/CICDPipeline.build/Debug-iphonesimulator/CICDPipeline.build/Objects-normal/arm64/CICDPipeline-master.swiftdeps"
+  },
+  "/Users/ayushgupta/Documents/iOS-Projects/CICDPipeline/Build/Build/Intermediates.noindex/CICDPipeline.build/Debug-iphonesimulator/CICDPipeline.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/ayushgupta/Documents/iOS-Projects/CICDPipeline/Build/Build/Intermediates.noindex/CICDPipeline.build/Debug-iphonesimulator/CICDPipeline.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/ayushgupta/Documents/iOS-Projects/CICDPipeline/Build/Build/Intermediates.noindex/CICDPipeline.build/Debug-iphonesimulator/CICDPipeline.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/ayushgupta/Documents/iOS-Projects/CICDPipeline/Build/Build/Intermediates.noindex/CICDPipeline.build/Debug-iphonesimulator/CICDPipeline.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/CICDPipeline.build/Debug-iphonesimulator/CICDPipeline.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/ayushgupta/Documents/iOS-Projects/CICDPipeline/Build/Build/Intermediates.noindex/CICDPipeline.build/Debug-iphonesimulator/CICDPipeline.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/ayushgupta/Documents/iOS-Projects/CICDPipeline/Build/Build/Intermediates.noindex/CICDPipeline.build/Debug-iphonesimulator/CICDPipeline.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/ayushgupta/Documents/iOS-Projects/CICDPipeline/Build/Build/Intermediates.noindex/CICDPipeline.build/Debug-iphonesimulator/CICDPipeline.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/ayushgupta/Documents/iOS-Projects/CICDPipeline/Build/Build/Intermediates.noindex/CICDPipeline.build/Debug-iphonesimulator/CICDPipeline.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/ayushgupta/Documents/iOS-Projects/CICDPipeline/CICDPipeline/CICDPipelineApp.swift" : {
+    "const-values" : "/Users/ayushgupta/Documents/iOS-Projects/CICDPipeline/Build/Build/Intermediates.noindex/CICDPipeline.build/Debug-iphonesimulator/CICDPipeline.build/Objects-normal/arm64/CICDPipelineApp.swiftconstvalues",
+    "dependencies" : "/Users/ayushgupta/Documents/iOS-Projects/CICDPipeline/Build/Build/Intermediates.noindex/CICDPipeline.build/Debug-iphonesimulator/CICDPipeline.build/Objects-normal/arm64/CICDPipelineApp.d",
+    "diagnostics" : "/Users/ayushgupta/Documents/iOS-Projects/CICDPipeline/Build/Build/Intermediates.noindex/CICDPipeline.build/Debug-iphonesimulator/CICDPipeline.build/Objects-normal/arm64/CICDPipelineApp.dia",
+    "index-unit-output-path" : "/CICDPipeline.build/Debug-iphonesimulator/CICDPipeline.build/Objects-normal/arm64/CICDPipelineApp.o",
+    "llvm-bc" : "/Users/ayushgupta/Documents/iOS-Projects/CICDPipeline/Build/Build/Intermediates.noindex/CICDPipeline.build/Debug-iphonesimulator/CICDPipeline.build/Objects-normal/arm64/CICDPipelineApp.bc",
+    "object" : "/Users/ayushgupta/Documents/iOS-Projects/CICDPipeline/Build/Build/Intermediates.noindex/CICDPipeline.build/Debug-iphonesimulator/CICDPipeline.build/Objects-normal/arm64/CICDPipelineApp.o",
+    "swift-dependencies" : "/Users/ayushgupta/Documents/iOS-Projects/CICDPipeline/Build/Build/Intermediates.noindex/CICDPipeline.build/Debug-iphonesimulator/CICDPipeline.build/Objects-normal/arm64/CICDPipelineApp.swiftdeps",
+    "swiftmodule" : "/Users/ayushgupta/Documents/iOS-Projects/CICDPipeline/Build/Build/Intermediates.noindex/CICDPipeline.build/Debug-iphonesimulator/CICDPipeline.build/Objects-normal/arm64/CICDPipelineApp~partial.swiftmodule"
+  },
+  "/Users/ayushgupta/Documents/iOS-Projects/CICDPipeline/CICDPipeline/ContentView.swift" : {
+    "const-values" : "/Users/ayushgupta/Documents/iOS-Projects/CICDPipeline/Build/Build/Intermediates.noindex/CICDPipeline.build/Debug-iphonesimulator/CICDPipeline.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/ayushgupta/Documents/iOS-Projects/CICDPipeline/Build/Build/Intermediates.noindex/CICDPipeline.build/Debug-iphonesimulator/CICDPipeline.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/ayushgupta/Documents/iOS-Projects/CICDPipeline/Build/Build/Intermediates.noindex/CICDPipeline.build/Debug-iphonesimulator/CICDPipeline.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/CICDPipeline.build/Debug-iphonesimulator/CICDPipeline.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/ayushgupta/Documents/iOS-Projects/CICDPipeline/Build/Build/Intermediates.noindex/CICDPipeline.build/Debug-iphonesimulator/CICDPipeline.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/ayushgupta/Documents/iOS-Projects/CICDPipeline/Build/Build/Intermediates.noindex/CICDPipeline.build/Debug-iphonesimulator/CICDPipeline.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/ayushgupta/Documents/iOS-Projects/CICDPipeline/Build/Build/Intermediates.noindex/CICDPipeline.build/Debug-iphonesimulator/CICDPipeline.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/ayushgupta/Documents/iOS-Projects/CICDPipeline/Build/Build/Intermediates.noindex/CICDPipeline.build/Debug-iphonesimulator/CICDPipeline.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  }
+}
