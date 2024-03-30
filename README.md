@@ -1,8 +1,6 @@
-# How to do CI/CD for iOS?
+# CI/CD Pipeline for iOS
 
-This tutorial will teach you how to setup your own CI/CD based on the setup we currently have in Axel Springer in BILD team. BILD is a production app that currently has around 2M MAU.
-
-<a href=""><img width="218" alt="" src=""></a>
+<a href=""><img width="218" alt="" src="https://github.com/dev-iayush27/CICDPipeline/blob/main/CICDPipeline/CICD.png"></a>
 
 
 ## CI Pipeline setup
@@ -203,8 +201,6 @@ If you'll raise a pull request from your branch
 
 <img width="831" alt="Screenshot 2022-07-06 at 14 54 58" src="https://user-images.githubusercontent.com/35912614/177554925-e5868d7d-3608-4cf7-a005-57dcbf4995f2.png">
 
-Warning: if you create a project from scratch on your own and the latest Xcode available on Github Actions is still 13.2.1, you have to make sure your iOS Deployment target in the project is set to `15.2` and not higher. 
+After a few minutes you'll see beautiful green mark!
 
-After a few minutes you'll see beautiful green mark! 
-
-#### Congrats! 🥳
+#### Thanks!
