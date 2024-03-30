@@ -1,19 +1,13 @@
 # CI/CD Pipeline for iOS
 
-<a href=""><img width="218" alt="" src="https://github.com/dev-iayush27/CICDPipeline/blob/main/CICDPipeline/CICD.png"></a>
-
-
 ## CI Pipeline setup
 We want to automatically run Unit Tests for each pull request.
 
-<img width="1305" alt="Workflow process diagramm" src="">
+<img width="1305" alt="Workflow process diagramm" src="https://github.com/dev-iayush27/CICDPipeline/blob/main/CICDPipeline/CICD.png">
 
-Clone this repo and checkout to the `start` branch.
-
-It contains an empty SwiftUI app and 1 Unit Test.
+Create Xcode project and open it in VS code for further setup.
 
 ### Workflow initial setup
-Now, let's go to Visual Studio Code and create our first workflow yaml file:
 
 Create `.github/workflows/pullRequest.yml` file. I will just copy and paste the following to save time, but we'll go over everything:
 
