@@ -17,12 +17,12 @@ name: Pull Request
 on:
   pull_request:
     branches:
-      - develop
+      - main
   workflow_dispatch:
 
 jobs:
   test:
-    runs-on: macos-11
+    runs-on: macos-14.1
     steps:
       - uses: actions/checkout@v2
 
@@ -64,7 +64,7 @@ In out case it's pull request against `develop` branch.
 `jobs`:
 Now we actually start to describe what we want to do. 
 We have the first and the only job called `test` (can be named anything else).
-`runs-on: macos-11` - Self-explanatory.
+`runs-on: macos-14.1` - Self-explanatory.
 
 `steps:` 
 Each job can have many of them.
@@ -140,10 +140,10 @@ Now, obviously it's not all it takes to run the test. We want to specify the pro
 # For more information about this configuration visit
 # https://github.com/fastlane/scan#scanfile
 
-workspace "AnyApp.xcodeproj/project.xcworkspace"
-scheme "AnyApp"
+workspace "CICDPipeline.xcodeproj/project.xcworkspace"
+scheme "CICDPipeline"
 sdk "iphonesimulator"
-device "iPhone 11"
+device "iPhone 15"
 code_coverage true
 xcargs '-parallelizeTargets'
 prelaunch_simulator true
