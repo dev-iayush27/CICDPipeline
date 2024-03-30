@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FormatVersion</key>
+	<integer>1</integer>
+	<key>Store</key>
+	<dict>
+		<key>CICDPipelineTests</key>
+		<dict>
+			<key>CICDPipelineTests</key>
+			<dict>
+				<key>testExample</key>
+				<dict>
+					<key>mrnet</key>
+					<real>0.00084710121154785156</real>
+				</dict>
+				<key>testPerformanceExample</key>
+				<dict>
+					<key>mrnet</key>
+					<real>0.72349202632904053</real>
+				</dict>
+			</dict>
+		</dict>
+		<key>CICDPipelineUITests</key>
+		<dict>
+			<key>CICDPipelineUITests</key>
+			<dict>
+				<key>testExample</key>
+				<dict>
+					<key>mrnet</key>
+					<real>1.9714499711990356</real>
+				</dict>
+				<key>testLaunchPerformance</key>
+				<dict>
+					<key>mrnet</key>
+					<real>15.929974913597107</real>
+				</dict>
+			</dict>
+			<key>CICDPipelineUITestsLaunchTests</key>
+			<dict>
+				<key>testLaunch</key>
+				<dict>
+					<key>mrnet</key>
+					<real>3.2582260370254517</real>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>

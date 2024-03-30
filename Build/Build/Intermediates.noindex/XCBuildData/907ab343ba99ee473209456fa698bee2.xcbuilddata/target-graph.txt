@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+Target 'CICDPipelineTests' in project 'CICDPipeline'
+➜ Explicit dependency on target 'CICDPipeline' in project 'CICDPipeline'
+Target 'CICDPipelineUITests' in project 'CICDPipeline'
+➜ Explicit dependency on target 'CICDPipeline' in project 'CICDPipeline'
+Target 'CICDPipeline' in project 'CICDPipeline' (no dependencies)

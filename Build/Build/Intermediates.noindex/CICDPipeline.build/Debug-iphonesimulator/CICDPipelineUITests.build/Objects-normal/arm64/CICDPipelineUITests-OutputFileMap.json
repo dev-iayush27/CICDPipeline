@@ -1,0 +1,28 @@
+{
+  "" : {
+    "diagnostics" : "/Users/ayushgupta/Documents/iOS-Projects/CICDPipeline/Build/Build/Intermediates.noindex/CICDPipeline.build/Debug-iphonesimulator/CICDPipelineUITests.build/Objects-normal/arm64/CICDPipelineUITests-master.dia",
+    "emit-module-dependencies" : "/Users/ayushgupta/Documents/iOS-Projects/CICDPipeline/Build/Build/Intermediates.noindex/CICDPipeline.build/Debug-iphonesimulator/CICDPipelineUITests.build/Objects-normal/arm64/CICDPipelineUITests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/ayushgupta/Documents/iOS-Projects/CICDPipeline/Build/Build/Intermediates.noindex/CICDPipeline.build/Debug-iphonesimulator/CICDPipelineUITests.build/Objects-normal/arm64/CICDPipelineUITests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/ayushgupta/Documents/iOS-Projects/CICDPipeline/Build/Build/Intermediates.noindex/CICDPipeline.build/Debug-iphonesimulator/CICDPipelineUITests.build/Objects-normal/arm64/CICDPipelineUITests-master.swiftdeps"
+  },
+  "/Users/ayushgupta/Documents/iOS-Projects/CICDPipeline/CICDPipelineUITests/CICDPipelineUITests.swift" : {
+    "const-values" : "/Users/ayushgupta/Documents/iOS-Projects/CICDPipeline/Build/Build/Intermediates.noindex/CICDPipeline.build/Debug-iphonesimulator/CICDPipelineUITests.build/Objects-normal/arm64/CICDPipelineUITests.swiftconstvalues",
+    "dependencies" : "/Users/ayushgupta/Documents/iOS-Projects/CICDPipeline/Build/Build/Intermediates.noindex/CICDPipeline.build/Debug-iphonesimulator/CICDPipelineUITests.build/Objects-normal/arm64/CICDPipelineUITests.d",
+    "diagnostics" : "/Users/ayushgupta/Documents/iOS-Projects/CICDPipeline/Build/Build/Intermediates.noindex/CICDPipeline.build/Debug-iphonesimulator/CICDPipelineUITests.build/Objects-normal/arm64/CICDPipelineUITests.dia",
+    "index-unit-output-path" : "/CICDPipeline.build/Debug-iphonesimulator/CICDPipelineUITests.build/Objects-normal/arm64/CICDPipelineUITests.o",
+    "llvm-bc" : "/Users/ayushgupta/Documents/iOS-Projects/CICDPipeline/Build/Build/Intermediates.noindex/CICDPipeline.build/Debug-iphonesimulator/CICDPipelineUITests.build/Objects-normal/arm64/CICDPipelineUITests.bc",
+    "object" : "/Users/ayushgupta/Documents/iOS-Projects/CICDPipeline/Build/Build/Intermediates.noindex/CICDPipeline.build/Debug-iphonesimulator/CICDPipelineUITests.build/Objects-normal/arm64/CICDPipelineUITests.o",
+    "swift-dependencies" : "/Users/ayushgupta/Documents/iOS-Projects/CICDPipeline/Build/Build/Intermediates.noindex/CICDPipeline.build/Debug-iphonesimulator/CICDPipelineUITests.build/Objects-normal/arm64/CICDPipelineUITests.swiftdeps",
+    "swiftmodule" : "/Users/ayushgupta/Documents/iOS-Projects/CICDPipeline/Build/Build/Intermediates.noindex/CICDPipeline.build/Debug-iphonesimulator/CICDPipelineUITests.build/Objects-normal/arm64/CICDPipelineUITests~partial.swiftmodule"
+  },
+  "/Users/ayushgupta/Documents/iOS-Projects/CICDPipeline/CICDPipelineUITests/CICDPipelineUITestsLaunchTests.swift" : {
+    "const-values" : "/Users/ayushgupta/Documents/iOS-Projects/CICDPipeline/Build/Build/Intermediates.noindex/CICDPipeline.build/Debug-iphonesimulator/CICDPipelineUITests.build/Objects-normal/arm64/CICDPipelineUITestsLaunchTests.swiftconstvalues",
+    "dependencies" : "/Users/ayushgupta/Documents/iOS-Projects/CICDPipeline/Build/Build/Intermediates.noindex/CICDPipeline.build/Debug-iphonesimulator/CICDPipelineUITests.build/Objects-normal/arm64/CICDPipelineUITestsLaunchTests.d",
+    "diagnostics" : "/Users/ayushgupta/Documents/iOS-Projects/CICDPipeline/Build/Build/Intermediates.noindex/CICDPipeline.build/Debug-iphonesimulator/CICDPipelineUITests.build/Objects-normal/arm64/CICDPipelineUITestsLaunchTests.dia",
+    "index-unit-output-path" : "/CICDPipeline.build/Debug-iphonesimulator/CICDPipelineUITests.build/Objects-normal/arm64/CICDPipelineUITestsLaunchTests.o",
+    "llvm-bc" : "/Users/ayushgupta/Documents/iOS-Projects/CICDPipeline/Build/Build/Intermediates.noindex/CICDPipeline.build/Debug-iphonesimulator/CICDPipelineUITests.build/Objects-normal/arm64/CICDPipelineUITestsLaunchTests.bc",
+    "object" : "/Users/ayushgupta/Documents/iOS-Projects/CICDPipeline/Build/Build/Intermediates.noindex/CICDPipeline.build/Debug-iphonesimulator/CICDPipelineUITests.build/Objects-normal/arm64/CICDPipelineUITestsLaunchTests.o",
+    "swift-dependencies" : "/Users/ayushgupta/Documents/iOS-Projects/CICDPipeline/Build/Build/Intermediates.noindex/CICDPipeline.build/Debug-iphonesimulator/CICDPipelineUITests.build/Objects-normal/arm64/CICDPipelineUITestsLaunchTests.swiftdeps",
+    "swiftmodule" : "/Users/ayushgupta/Documents/iOS-Projects/CICDPipeline/Build/Build/Intermediates.noindex/CICDPipeline.build/Debug-iphonesimulator/CICDPipelineUITests.build/Objects-normal/arm64/CICDPipelineUITestsLaunchTests~partial.swiftmodule"
+  }
+}
